@@ -1,0 +1,8 @@
+# half_extent_m  occupied_voxels  kdtree_ns  direct_ns  speedup
+    30       1169       1165.4      174.3     6.69   identical
+    45       2013       1121.4      181.9     6.17   identical
+    65       3396       1109.0      198.3     5.59   identical
+    90       5509       1132.2      218.2     5.19   identical
+   120       7748       1157.1      225.6     5.13   identical
+   160      10098       1181.6      228.9     5.16   identical
+   210      11487       1192.4      231.1     5.16   identical
